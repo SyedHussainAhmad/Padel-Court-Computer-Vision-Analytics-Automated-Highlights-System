@@ -159,7 +159,3 @@ Padel-specific shot classification:
 
 ---
 
-## Author:
-Syed Hussain Ahmad
----
-
